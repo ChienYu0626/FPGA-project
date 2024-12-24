@@ -1,5 +1,5 @@
-Authors: 112321025
-Input/Output unit:
+#Authors: 112321025
+#Input/Output unit:
 8x8 LED 矩陣，劃分成4X4的格子，用0000-1111去編號。
 七段顯示器，前面兩個用來顯示計分，後面兩個用來顯示剩餘時間。
 LED 陣列，用來顯示關卡(有三關)並且計分。
