@@ -6,13 +6,13 @@ LED 陣列，用來顯示關卡(有三關)並且計分。
 
 ## 功能說明:
 開始時為關卡一的紅色地鼠，進入第二關為紫色地鼠，第三關則為白色地鼠，達到預設分數時會進入新關卡並且便不同顏色的地鼠，過完三關後會全部變白色，表示過關。<br>
-第一關
+第一關<br>
 <img src="https://github.com/user-attachments/assets/375f4b32-1342-4525-9abb-d33cd1bd5895" width="300"/><br>
-第二關
+第二關<br>
 <img src="https://github.com/user-attachments/assets/dfdf5121-bcf3-44b7-9ec4-6937169c0a46" width="300"/><br>
-第三關
+第三關<br>
 <img src="https://github.com/user-attachments/assets/0c03a7d1-bb8e-4bd9-b2f1-3afa311be7db" width="300"/><br>
-過關
+過關<br>
 <img src="https://github.com/user-attachments/assets/6f866320-a72a-4fa8-b516-37b9d14bd97f" width="300"/><br>
 
 ## 程式模組說明:
